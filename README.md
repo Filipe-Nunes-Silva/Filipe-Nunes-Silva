@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
+![Banner](https://github.com/Filipe-Nunes-Silva/Filipe-Nunes-Silva/blob/main/Header-Blue.png)
 ### Hi there 👋
 ## Sobre mim 
 
