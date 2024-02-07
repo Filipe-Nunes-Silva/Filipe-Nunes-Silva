@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 🎓 Formado em Análise e Desenvolvimento de Sistemas, e cursando pós em Engenharia de software e Arquitetura de software 💻  
 🎯 Estou empenhado em aprimorar minhas habilidades de programação na área de desenvolvimento full stack, a fim de evoluir constantemente por meio da prática e do desenvolvimento de novas aplicações.  
 ⚡Sou apaixonado por tecnologia, informática e tudo o que envolve a automação de processos para tornar a vida mais fácil e eficiente.  
-## Controle de versão e ferramentas de desenvolvimento  
+
 <!--
+## Controle de versão e ferramentas de desenvolvimento  
+
 ![](https://camo.githubusercontent.com/247482f492e6ae85ac3ff395730acfdf85d3b98198096e772da9fb315de1f484/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/dc72fe73865526f2b304a96f878f8aa8ee311bf06f498175db3179e35d1e2c71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/bb81dd67428abb250f8b578e8e2580726a4f5c5335450dcff1296add2bcb52c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666c6174266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)  
