@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Sobre mim 
 
 👩‍🎓Sou um Desenvolvedor Full Stack que adora trabalhar tanto no frontEnd quanto no BackEnd de projetos.  
-🎓 Estudando Análise e Desenvolvimento de Sistemas, concluindo o 4º semestre 💻  
+🎓 Formado em Análise e Desenvolvimento de Sistemas, e cursando pós em Engenharia de software e Arquitetura de software 💻  
 🎯 Estou empenhado em aprimorar minhas habilidades de programação na área de desenvolvimento full stack, a fim de evoluir constantemente por meio da prática e do desenvolvimento de novas aplicações.  
 ⚡Sou apaixonado por tecnologia, informática e tudo o que envolve a automação de processos para tornar a vida mais fácil e eficiente.  
 ## Controle de versão e ferramentas de desenvolvimento  
